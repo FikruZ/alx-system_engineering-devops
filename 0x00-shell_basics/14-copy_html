@@ -1,2 +1,4 @@
 #!/bin/bash
-cp -u *.html pwd cd
+source = cd-
+destination = cd
+cp -u *.html source destination
